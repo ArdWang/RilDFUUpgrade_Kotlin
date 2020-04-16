@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RilDFUUpgrade_Kotlin</string>
+    <string name="multiple">Multiple units</string>
+    <string name="single">Single unit</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="alert_message_bonding_title">Connect OTA</string>
+    <string name="alert_message_bonding_message">OTA connection please wait</string>
+
+    <string name="notifyTitle">Prompt</string>
+    <string name="gpsNotifyMsg">Current mobile phone scanning Bluetooth needs to open the positioning function</string>
+    <string name="setting">Go to settings</string>
+
+    <string name="please_open_blue">Please turn on Bluetooth first</string>
+    <string name="connect_fail">connection failed</string>
+
+</resources>

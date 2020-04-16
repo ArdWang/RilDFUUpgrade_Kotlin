@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#555555</color>
+
+    <color name="colorPrimaryDark">#555555</color>
+
+    <color name="colorAccent">#444444</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorGray">#555555</color>
+
+    <color name="colorBlack">#111111</color>
+
+    <color name="colorBDK">#C2C2C2</color>
+
+    <color name="colorNavBg">#DADADA</color>
+
+    <color name="colorGrey">#EAEAEA</color>
+
+    <color name="colorBlue">#4169E1</color>
+
+    <color name="colorYAHEI">#111111</color>
+
+    <color name="colorRed">#EE0000</color>
+
+    <!--头部的颜色-->
+    <color name="colorNav">#436EEE</color>
+
+    <color name="colorLineHei">#999999</color>
+
+    <!--按钮的颜色-->
+    <color name="colorBtn">#6495ED</color>
+
+    <color name="actionbar_bg_color">#0c377b</color>
+    <color name="grey">#EFEFF4</color>
+    <color name="green">#701ABB00</color>
+
+
+</resources>
